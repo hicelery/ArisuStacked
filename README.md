@@ -16,7 +16,11 @@ Note that if you want to use the full stack of 4 angle pieces, 4 M2.5 x 18mm bol
 
 
 Some configuration advice:
-Where possible try to steer away from hotswap pcbs, as there are no pcb mounting points hot swap plates have a tendecy to drop or pop switches out.
+Where possible try to steer away from hotswap pcbs, as there are no pcb mounting points hot swap pcb have a tendecy to drop or pop switches out.
+Note as the 3mm acryl plate is quite thick, getting switches to sit into a hotswap pcb requires the pcb to sit against the plate.
+This causes clearance issues with the stabs and poor sound profile.
 This is not an issue with soldered switches, and could be fine with 5 pin switches.
+
+The flex cut plate file remedies this but is designed for 1.5mm material, with the use drilling mounting points themselves.
 
 If using the flex cut plate file (i.e for POM plate) try to use a plate foam in order to keep a gap so that the stabs don't rest on the plate.
